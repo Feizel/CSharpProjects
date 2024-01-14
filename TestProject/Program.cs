@@ -6,6 +6,14 @@ int roll3 = dice.Next(50, 101);
 
 Console.WriteLine($"First Roll: {roll1}");
 Console.WriteLine($"Second Roll: {roll2}");
-Console.WriteLine($"Third Roll: {roll3}");
+Console.WriteLine($"Third Roll: {roll3} \n\n");
+
+int firstValue = 500;
+int secondValue = 600;
+int largerValue;
+
+largerValue = Math.Max(firstValue, secondValue);
+
+Console.WriteLine(largerValue);
 
 
