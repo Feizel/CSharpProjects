@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\bin\Debug\net8.0\SubscriptionRenewal.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\bin\Debug\net8.0\SubscriptionRenewal.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\bin\Debug\net8.0\SubscriptionRenewal.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\bin\Debug\net8.0\SubscriptionRenewal.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\bin\Debug\net8.0\SubscriptionRenewal.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\refint\SubscriptionRenewal.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\SubscriptionRenewal.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubscriptionRenewal\obj\Debug\net8.0\ref\SubscriptionRenewal.dll
