@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\bin\Debug\net8.0\LogicOperands.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\bin\Debug\net8.0\LogicOperands.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\bin\Debug\net8.0\LogicOperands.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\bin\Debug\net8.0\LogicOperands.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\bin\Debug\net8.0\LogicOperands.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\refint\LogicOperands.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\LogicOperands.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\LogicOperands\obj\Debug\net8.0\ref\LogicOperands.dll

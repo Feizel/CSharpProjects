@@ -10,4 +10,16 @@ int roll3 = dice.Next(1, 7);
 
 int total = roll1 + roll2 + roll3;
 
-Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
+Console.WriteLine($"\nDice roll: {roll1} + {roll2} + {roll3} = {total}");
+
+if (total > 14)
+{
+    System.Console.WriteLine("You win!");
+}
+
+if (total < 15)
+{
+    System.Console.WriteLine("Sorry, you lose.");
+}
+
+
