@@ -27,16 +27,6 @@ Welcome to my C# learning repository! This space is dedicated to tracking my pro
    - [x] Windows Forms Applications
    - [x] Web Applications with ASP.NET
 
-## 🚀 Projects
-
-### Project 1: [Project Name]
-Brief description of the project and the concepts learned.
-
-![Project Demo](link-to-demo-gif-or-screenshot)
-
-### Project 2: [Project Name]
-...
-
 ## 📖 Resources
 
 - [Official C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
