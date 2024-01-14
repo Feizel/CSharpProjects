@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\bin\Debug\net8.0\FraudDetector.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\bin\Debug\net8.0\FraudDetector.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\bin\Debug\net8.0\FraudDetector.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\bin\Debug\net8.0\FraudDetector.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\bin\Debug\net8.0\FraudDetector.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\refint\FraudDetector.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\FraudDetector.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\FraudDetector\obj\Debug\net8.0\ref\FraudDetector.dll
