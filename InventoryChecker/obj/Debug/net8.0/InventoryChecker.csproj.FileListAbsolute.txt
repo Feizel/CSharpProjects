@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\bin\Debug\net8.0\InventoryChecker.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\bin\Debug\net8.0\InventoryChecker.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\bin\Debug\net8.0\InventoryChecker.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\bin\Debug\net8.0\InventoryChecker.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\bin\Debug\net8.0\InventoryChecker.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\refint\InventoryChecker.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\InventoryChecker.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\InventoryChecker\obj\Debug\net8.0\ref\InventoryChecker.dll
