@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\bin\Debug\net8.0\StudentGradingSystem.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\refint\StudentGradingSystem.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\StudentGradingSystem.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StudentGradingSystem\obj\Debug\net8.0\ref\StudentGradingSystem.dll
