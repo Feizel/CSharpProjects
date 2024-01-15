@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+/*The code uses the Random class to help develop a simulated dice game, 
+where the total value from three rolls is used to evaluate a "winning" score. 
+The code awards extra points for rolling doubles or triples.*/
+
 Console.WriteLine("\nDICE GAME");
 Console.WriteLine("=========");
 
