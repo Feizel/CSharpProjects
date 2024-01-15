@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPACalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f46544a7bec851b4d4d9ef4b4054e4e772732b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208cac145dac722accab3abe85639c9a63e413f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPACalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPACalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
