@@ -1,19 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Random dice = new Random();
-int roll1 = dice.Next();
-int roll2 = dice.Next(101);
-int roll3 = dice.Next(50, 101);
+﻿using System;
 
-Console.WriteLine($"First Roll: {roll1}");
-Console.WriteLine($"Second Roll: {roll2}");
-Console.WriteLine($"Third Roll: {roll3} \n\n");
-
-int firstValue = 500;
-int secondValue = 600;
-int largerValue;
-
-largerValue = Math.Max(firstValue, secondValue);
-
-Console.WriteLine(largerValue);
-
-
+string pangram = "The quick fox jumps over the moon";
+System.Console.WriteLine(pangram.Contains("jumps"));
+System.Console.WriteLine(pangram.Contains("{cow}"));
