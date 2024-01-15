@@ -1,5 +1,3 @@
-﻿using System;
-
-string pangram = "The quick fox jumps over the moon";
-System.Console.WriteLine(pangram.Contains("jumps"));
-System.Console.WriteLine(pangram.Contains("{cow}"));
+﻿int salesAmount = 700;
+int discount = salesAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount: {discount}");
