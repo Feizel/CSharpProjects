@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\bin\Debug\net8.0\GPACalculator.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\bin\Debug\net8.0\GPACalculator.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\bin\Debug\net8.0\GPACalculator.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\bin\Debug\net8.0\GPACalculator.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\bin\Debug\net8.0\GPACalculator.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\refint\GPACalculator.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\GPACalculator.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\GPACalculator\obj\Debug\net8.0\ref\GPACalculator.dll
