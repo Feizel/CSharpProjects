@@ -8,5 +8,12 @@ When the current value is divisible by both 3 and 5, print the term FizzBuzz nex
 
 for (int i = 1; i < 101; i++)
 {
-    System.Console.WriteLine(i);
+    if ((i % 3 == 0) && (i % 5 == 0))
+        Console.WriteLine($"{i} - FizzBuzz");
+    else if (i % 3 == 0)
+        Console.WriteLine($"{i} - Fizz");
+    else if (i % 5 == 0)
+        Console.WriteLine($"{i} - Buzz");
+    else
+        Console.WriteLine($"{i}");
 }
