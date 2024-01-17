@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\refint\DoWhilePractice.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DoWhilePractice\obj\Debug\net8.0\ref\DoWhilePractice.dll

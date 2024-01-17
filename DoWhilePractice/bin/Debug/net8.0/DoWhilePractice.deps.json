@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DoWhilePractice/1.0.0": {
+        "runtime": {
+          "DoWhilePractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoWhilePractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
