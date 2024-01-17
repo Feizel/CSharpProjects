@@ -151,8 +151,13 @@ do
             {
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
-                    System.Console.WriteLine(ourAnimals[i, 0]);
+                    Console.WriteLine();
+                    for (int j = 0; j < 6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j]);
+                    }
                 }
+
             }
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
