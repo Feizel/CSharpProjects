@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\bin\Debug\net8.0\RPGLogic.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\bin\Debug\net8.0\RPGLogic.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\bin\Debug\net8.0\RPGLogic.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\bin\Debug\net8.0\RPGLogic.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\bin\Debug\net8.0\RPGLogic.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\refint\RPGLogic.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\RPGLogic.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\RPGLogic\obj\Debug\net8.0\ref\RPGLogic.dll
