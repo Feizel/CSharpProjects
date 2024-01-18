@@ -318,8 +318,45 @@ do
 
         case "3":
             // Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine($"Checking data for pet with ID: {ourAnimals[i, 0]}");
+
+                    // Check and update animalAge
+                    if (string.IsNullOrEmpty(ourAnimals[i, 2]) || !int.TryParse(ourAnimals[i, 2], out _))
+                    {
+                        Console.Write("Enter a valid numeric age for the pet: ");
+                        string newAge = Console.ReadLine();
+                        if (int.TryParse(newAge, out _))
+                        {
+                            ourAnimals[i, 2] = "Age: " + newAge;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid age entered. Skipping data update for this pet.");
+                        }
+                    }
+
+                    // Check and update animalPhysicalDescription
+                    if (string.IsNullOrEmpty(ourAnimals[i, 4]))
+                    {
+                        Console.Write("Enter a valid physical description for the pet: ");
+                        string newPhysicalDescription = Console.ReadLine();
+                        if (!string.IsNullOrEmpty(newPhysicalDescription))
+                        {
+                            ourAnimals[i, 4] = "Physical description: " + newPhysicalDescription;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid physical description entered. Skipping data update for this pet.");
+                        }
+                    }
+                }
+            }
+
+            Console.WriteLine("Data verification complete. Press Enter to continue.");
             readResult = Console.ReadLine();
             break;
 

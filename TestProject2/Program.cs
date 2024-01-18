@@ -1,6 +1,10 @@
 ﻿using System;
 using System.IO;
 
+/*
+Contoso 
+*/
+
 // the ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
@@ -103,9 +107,6 @@ do
     if (readResult != null)
     {
         menuSelection = readResult.ToLower();
-        // NOTE: We could put a do statement around the menuSelection entry to ensure a valid entry, but we
-        //  use a conditional statement below that only processes the valid entry values, so the do statement 
-        //  is not required here. 
     }
 
     // use switch-case to process the selected menu option
