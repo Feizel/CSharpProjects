@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\refint\TestProject2.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\TestProject2\obj\Debug\net8.0\ref\TestProject2.dll
