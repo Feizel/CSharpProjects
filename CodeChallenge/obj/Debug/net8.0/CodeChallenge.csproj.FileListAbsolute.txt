@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\bin\Debug\net8.0\CodeChallenge.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\bin\Debug\net8.0\CodeChallenge.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\bin\Debug\net8.0\CodeChallenge.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\bin\Debug\net8.0\CodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\bin\Debug\net8.0\CodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\refint\CodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\CodeChallenge.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\CodeChallenge\obj\Debug\net8.0\ref\CodeChallenge.dll
