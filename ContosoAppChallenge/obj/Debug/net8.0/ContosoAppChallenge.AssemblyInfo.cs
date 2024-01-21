@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoAppChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d697ce9c8ace7e82a389485b098af6fedb21eebe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8601edd7a126756ab256583ccdf71244d23854af")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoAppChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoAppChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
