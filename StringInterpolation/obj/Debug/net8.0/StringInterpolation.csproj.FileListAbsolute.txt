@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll
