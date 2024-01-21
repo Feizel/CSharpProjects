@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\bin\Debug\net8.0\ContosoPetsAppFeature.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\bin\Debug\net8.0\ContosoPetsAppFeature.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\bin\Debug\net8.0\ContosoPetsAppFeature.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\bin\Debug\net8.0\ContosoPetsAppFeature.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\bin\Debug\net8.0\ContosoPetsAppFeature.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\refint\ContosoPetsAppFeature.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ContosoPetsAppFeature.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoPetsAppFeature\obj\Debug\net8.0\ref\ContosoPetsAppFeature.dll
