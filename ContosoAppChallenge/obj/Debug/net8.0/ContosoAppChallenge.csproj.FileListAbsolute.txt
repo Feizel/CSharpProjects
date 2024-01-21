@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\bin\Debug\net8.0\ContosoAppChallenge.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\bin\Debug\net8.0\ContosoAppChallenge.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\bin\Debug\net8.0\ContosoAppChallenge.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\bin\Debug\net8.0\ContosoAppChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\bin\Debug\net8.0\ContosoAppChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\refint\ContosoAppChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ContosoAppChallenge.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ContosoAppChallenge\obj\Debug\net8.0\ref\ContosoAppChallenge.dll
