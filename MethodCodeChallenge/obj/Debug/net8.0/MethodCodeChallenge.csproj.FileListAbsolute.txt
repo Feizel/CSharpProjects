@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\bin\Debug\net8.0\MethodCodeChallenge.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\bin\Debug\net8.0\MethodCodeChallenge.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\bin\Debug\net8.0\MethodCodeChallenge.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\bin\Debug\net8.0\MethodCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\bin\Debug\net8.0\MethodCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\refint\MethodCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\MethodCodeChallenge.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MethodCodeChallenge\obj\Debug\net8.0\ref\MethodCodeChallenge.dll
