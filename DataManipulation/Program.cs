@@ -10,16 +10,23 @@ delete, sort, combine, calculate, validate and format output.
 
 string[] pallets = { "B14", "A11", "B12", "A13" };
 
-Console.WriteLine("Sorted...");
-Array.Sort(pallets);
+// Console.WriteLine("Sorted...");
+// Array.Sort(pallets);
+// foreach (var pallet in pallets)
+// {
+//     Console.WriteLine($"-- {pallet}");
+// }
+
+// System.Console.WriteLine("\nReversed...");
+// Array.Reverse(pallets);
+// foreach (var pallet in pallets)
+// {
+//     System.Console.WriteLine($"-- {pallet}");
+// }
+
+Array.Clear(pallets, 2, 2);
+Console.WriteLine($"\nClearing 2 ... count: {pallets.Length}");
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"-- {pallet}");
-}
-
-System.Console.WriteLine("\nReversed...");
-Array.Reverse(pallets);
-foreach (var pallet in pallets)
-{
-    System.Console.WriteLine($"-- {pallet}");
 }
