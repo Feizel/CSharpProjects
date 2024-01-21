@@ -1,0 +1,5 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.sourcelink.json
