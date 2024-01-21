@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringCodeChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a4e2f7d47c8021b2f71395624d8f8146f37167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1778d06a7f29acea67c129c7857cd17f633cb2f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringCodeChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringCodeChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
