@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\bin\Debug\net8.0\DataOutput.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\bin\Debug\net8.0\DataOutput.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\bin\Debug\net8.0\DataOutput.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\bin\Debug\net8.0\DataOutput.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\bin\Debug\net8.0\DataOutput.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\refint\DataOutput.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\DataOutput.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataOutput\obj\Debug\net8.0\ref\DataOutput.dll
