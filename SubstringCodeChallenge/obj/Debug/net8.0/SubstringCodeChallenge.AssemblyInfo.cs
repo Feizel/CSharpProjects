@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubstringCodeChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d6ae0eb74701195a53940ab67f7da23dab1f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46729413bd9168f5d576d2e837f3097fe91a47de")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubstringCodeChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubstringCodeChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
