@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\bin\Debug\net8.0\SubstringCodeChallenge.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\bin\Debug\net8.0\SubstringCodeChallenge.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\bin\Debug\net8.0\SubstringCodeChallenge.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\bin\Debug\net8.0\SubstringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\bin\Debug\net8.0\SubstringCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\refint\SubstringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\SubstringCodeChallenge.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubstringCodeChallenge\obj\Debug\net8.0\ref\SubstringCodeChallenge.dll
