@@ -7,3 +7,12 @@ Each project is different, but all require the processing of data.
 In these projects the applications will be performing data operations such as to add, 
 delete, sort, combine, calculate, validate and format output.
 */
+
+string[] pallets = { "B14", "A11", "B12", "A13" };
+
+Console.WriteLine("Sorted...");
+Array.Sort(pallets);
+foreach (var pallet in pallets)
+{
+    Console.WriteLine($"-- {pallet}");
+}

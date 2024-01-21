@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\bin\Debug\net8.0\DataManipulation.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\bin\Debug\net8.0\DataManipulation.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\bin\Debug\net8.0\DataManipulation.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\bin\Debug\net8.0\DataManipulation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\bin\Debug\net8.0\DataManipulation.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\refint\DataManipulation.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\DataManipulation.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\DataManipulation\obj\Debug\net8.0\ref\DataManipulation.dll
