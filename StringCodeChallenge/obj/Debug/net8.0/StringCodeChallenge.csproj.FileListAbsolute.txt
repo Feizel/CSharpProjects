@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\bin\Debug\net8.0\StringCodeChallenge.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\bin\Debug\net8.0\StringCodeChallenge.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\bin\Debug\net8.0\StringCodeChallenge.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\bin\Debug\net8.0\StringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\bin\Debug\net8.0\StringCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\refint\StringCodeChallenge.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\StringCodeChallenge.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\StringCodeChallenge\obj\Debug\net8.0\ref\StringCodeChallenge.dll
