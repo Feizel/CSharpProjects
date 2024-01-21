@@ -17,3 +17,11 @@ Console.WriteLine($"   Shares: {productShares:N3} Product");
 Console.WriteLine($"     Sub Total: {subtotal:C}");
 Console.WriteLine($"           Tax: {taxPercentage:P2}");
 Console.WriteLine($"     Total Billed: {total:C}");
+
+string paymentId = "769C";
+string payeeName = "Mr. Stephen Ortega";
+
+var formattedLine = paymentId.PadRight(6);
+formattedLine += payeeName.PadRight(24);
+
+Console.WriteLine(formattedLine);
