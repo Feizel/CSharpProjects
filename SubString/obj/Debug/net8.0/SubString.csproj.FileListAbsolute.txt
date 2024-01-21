@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\bin\Debug\net8.0\SubString.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\bin\Debug\net8.0\SubString.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\bin\Debug\net8.0\SubString.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\bin\Debug\net8.0\SubString.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\bin\Debug\net8.0\SubString.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\refint\SubString.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\SubString.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\SubString\obj\Debug\net8.0\ref\SubString.dll
