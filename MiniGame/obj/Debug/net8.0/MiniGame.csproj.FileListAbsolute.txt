@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\bin\Debug\net8.0\MiniGame.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\bin\Debug\net8.0\MiniGame.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\bin\Debug\net8.0\MiniGame.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\bin\Debug\net8.0\MiniGame.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\bin\Debug\net8.0\MiniGame.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\refint\MiniGame.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\MiniGame.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\MiniGame\obj\Debug\net8.0\ref\MiniGame.dll
