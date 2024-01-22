@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\bin\Debug\net8.0\ZooTripAlgo.exe
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\bin\Debug\net8.0\ZooTripAlgo.deps.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\bin\Debug\net8.0\ZooTripAlgo.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\bin\Debug\net8.0\ZooTripAlgo.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\bin\Debug\net8.0\ZooTripAlgo.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\refint\ZooTripAlgo.dll
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.pdb
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ZooTripAlgo.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\CSharpProjects\ZooTripAlgo\obj\Debug\net8.0\ref\ZooTripAlgo.dll
