@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {}
+    "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {
+    "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Feizel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\obj\\",
+        "outputPath": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
