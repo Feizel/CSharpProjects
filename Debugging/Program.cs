@@ -15,13 +15,13 @@ foreach (string name in names)
         messageText = AndrewMessage();
     else if (name == "AllGreetings")
         messageText = SophiaMessage();
-        messageText = messageText + "\n\r" + AndrewMessage();
+    messageText = messageText + "\n\r" + AndrewMessage();
 
     Console.WriteLine(messageText + "\n\r");
 }
 
 bool pauseCode = true;
-while (pauseCode == true);
+while (pauseCode == true) ;
 
 static string SophiaMessage()
 {
