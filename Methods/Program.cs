@@ -1,56 +1,52 @@
-﻿string[] ipv4Input = {"107.31.1.5", "255.0.0.255", "555..0.555", "255...255"};
-string[] address;
-bool validLength = false;
-bool validZeroes = false;
-bool validRange = false;
+﻿int target = 60;
+int[] coins = new int[] { 5, 5, 50, 25, 25, 10, 5 };
+int[] result = TwoCoins(coins, target);
 
-foreach (string ip in ipv4Input) 
+if (result.Length == 0)
 {
-    address = ip.Split(".", StringSplitOptions.RemoveEmptyEntries);
-
-    ValidateLength(); 
-    ValidateZeroes(); 
-    ValidateRange();
-
-    if (validLength && validZeroes && validRange) 
-    {
-        Console.WriteLine($"{ip} is a valid IPv4 address");
-    } 
-    else 
-    {
-        Console.WriteLine($"{ip} is an invalid IPv4 address");
-    }
+    Console.WriteLine("No two coins make change");
+}
+else
+{
+    Console.WriteLine($"Change found at positions {result[0]} and {result[1]}");
 }
 
-void ValidateLength() 
+int[] TwoCoins(int[] coins, int target)
 {
-    validLength = address.Length == 4;
-};
-
-void ValidateZeroes() 
-{
-    foreach (string number in address) 
+    for (int curr = 0; curr < coins.Length; curr++)
     {
-        if (number.Length > 1 && number.StartsWith("0")) 
+        for (int next = curr + 1; next < coins.Length; next++)
         {
-            validZeroes = false;
-            return;
-        }
-    }
+            if (coins[curr] + coins[next] == target)
+            {
+                int[,] result = { { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 } };
+                int count = 0;
 
-    validZeroes = true;
-}
+                int[,] TwoCoins(int[] coins, int target)
+                {
+                    int[,] result = { { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 }, { -1, -1 } };
+                    int count = 0;
 
-void ValidateRange() 
-{
-    foreach (string number in address) 
-    {
-        int value = int.Parse(number);
-        if (value < 0 || value > 255) 
-        {
-            validRange = false;
-            return;
+                    for (int curr = 0; curr < coins.Length; curr++)
+                    {
+                        for (int next = curr + 1; next < coins.Length; next++)
+                        {
+                            if (coins[curr] + coins[next] == target)
+                            {
+                                result[count, 0] = curr;
+                                result[count, 1] = next;
+                                count++;
+                            }
+
+                        }
+                    }
+
+                    return new int[,] TwoCoins(int[] coins, int target);
+
+                }
+
+            }
         }
+
+        return new int[0];
     }
-    validRange = true;
-}
