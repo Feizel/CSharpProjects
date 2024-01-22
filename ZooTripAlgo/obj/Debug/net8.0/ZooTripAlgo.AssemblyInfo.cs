@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZooTripAlgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a9a6e87fa69a1ecd789999cb40f56b772c30d6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e70336d91da2ddb5d782b1f0f37e6e678fc47780")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZooTripAlgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZooTripAlgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
