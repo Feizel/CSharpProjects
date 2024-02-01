@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Feizel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\CSharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Feizel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

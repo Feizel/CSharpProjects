@@ -1,50 +1,72 @@
-﻿string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+﻿using System;
 
-// The IndexOfAny() helper method requires a char array of characters. 
-// You want to look for:
-
-char[] openSymbols = { '[', '{', '(' };
-
-// You'll use a slightly different technique for iterating through 
-// the characters in the string. This time, use the closing 
-// position of the previous iteration as the starting index for the 
-//next open symbol. So, you need to initialize the closingPosition 
-// variable to zero:
-
-int closingPosition = 0;
-
-while (true)
+namespace StoryTime
 {
-    int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
-
-    if (openingPosition == -1) break;
-
-    string currentSymbol = message.Substring(openingPosition, 1);
-
-    // Now  find the matching closing symbol
-    char matchingSymbol = ' ';
-
-    switch (currentSymbol)
+    class Program
     {
-        case "[":
-            matchingSymbol = ']';
-            break;
-        case "{":
-            matchingSymbol = '}';
-            break;
-        case "(":
-            matchingSymbol = ')';
-            break;
+        static void Main(string[] args)
+        {
+            // Declare the variables
+            string beginning = "The lady asked me, \"Do you believe in ghosts?\", and I answered, \"only in Space\"";
+            string middle = "\n\nShe looked at me in awe, waiting for me to expand a little more on this";
+            string end = "\n\nI continued, \"Space is huge, so huge that some of the stars we see have been traveling for billions of years\", as I pointed at a star, \"so in essence, we\'re seeing their ghosts\", as her eyes lit up in amazement.";
+
+            // Concatenate the string and the variables
+            string story = beginning + middle + end;
+
+            // Print the story to the console 
+            Console.WriteLine(story);
+
+            string message = "(\nWhat if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+
+            // The IndexOfAny() helper method requires a char array of characters. 
+            // You want to look for:
+
+            char[] openSymbols = { '[', '{', '(' };
+
+            // You'll use a slightly different technique for iterating through 
+            // the characters in the string. This time, use the closing 
+            // position of the previous iteration as the starting index for the 
+            //next open symbol. So, you need to initialize the closingPosition 
+            // variable to zero:
+
+            int closingPosition = 0;
+
+            while (true)
+            {
+                int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
+
+                if (openingPosition == -1) break;
+
+                string currentSymbol = message.Substring(openingPosition, 1);
+
+                // Now  find the matching closing symbol
+                char matchingSymbol = ' ';
+
+                switch (currentSymbol)
+                {
+                    case "[":
+                        matchingSymbol = ']';
+                        break;
+                    case "{":
+                        matchingSymbol = '}';
+                        break;
+                    case "(":
+                        matchingSymbol = ')';
+                        break;
+                }
+
+                // To find the closingPosition, use an overload of the IndexOf method to specify 
+                // that the search for the matchingSymbol should start at the openingPosition in the string. 
+
+                openingPosition += 1;
+                closingPosition = message.IndexOf(matchingSymbol, openingPosition);
+
+                // Finally, use the techniques you've already learned to display the sub-string:
+
+                int length = closingPosition - openingPosition;
+                Console.WriteLine(message.Substring(openingPosition, length));
+            }
+        }
     }
-
-    // To find the closingPosition, use an overload of the IndexOf method to specify 
-    // that the search for the matchingSymbol should start at the openingPosition in the string. 
-
-    openingPosition += 1;
-    closingPosition = message.IndexOf(matchingSymbol, openingPosition);
-
-    // Finally, use the techniques you've already learned to display the sub-string:
-
-    int length = closingPosition - openingPosition;
-    Console.WriteLine(message.Substring(openingPosition, length));
 }
